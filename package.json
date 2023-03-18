@@ -1,0 +1,26 @@
+{
+  "name": "civic-hacking-agency-starter",
+  "version": "0.0.1",
+  "description": "a template to get started with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afomi/project-template.git"
+  },
+  "keywords": [
+    "civic",
+    "opendata"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/afomi/project-template/issues"
+  },
+  "homepage": "https://github.com/afomi/project-template#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
